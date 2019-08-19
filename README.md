@@ -1,1 +1,2 @@
-# clappyBIrd
+# clappyBird!
+Instead you clap!
